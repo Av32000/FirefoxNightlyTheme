@@ -6,7 +6,7 @@
     }
   },
   "version": "1.0",
-  "name": "Firefox Nightly",
+  "name": "Custom Alpenglow Nightly",
   "description": "Custom Nightly version of the Firefox Alpenglow theme",
   "icons": {
     "32": "icon.svg"
