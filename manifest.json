@@ -1,0 +1,74 @@
+{
+  "manifest_version": 2,
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "ae.av32000@gmail.com"
+    }
+  },
+  "version": "1.0",
+  "name": "Firefox Nightly",
+  "description": "Custom Nightly version of the Firefox Alpenglow theme",
+  "icons": {
+    "32": "icon.svg"
+  },
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "background-noodles-right.svg",
+        "background-noodles-left.svg",
+        "background-gradient.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "right top",
+        "left top",
+        "right top"
+      ],
+      "additional_backgrounds_tiling": [
+        "no-repeat",
+        "no-repeat",
+        "repeat"
+      ]
+    },
+    "colors": {
+      "frame": "rgba(249, 249, 251, 1)",
+      "toolbar": "rgba(93, 53, 183, .96)",
+      "button_background_active": "rgba(232, 224, 255, .24)",
+      "button_background_hover": "rgba(232, 224, 255, .12)",
+      "icons": "rgba(78, 248, 188, 1)",
+      "icons_attention": "rgba(82, 255, 189, 1)",
+      "toolbar_text": "rgba(232, 224, 255, 1)",
+      "toolbar_vertical_separator": "rgba(25, 201, 249, .4)",
+      "toolbar_field": "rgba(55, 32, 126, 1)",
+      "toolbar_field_focus": "rgba(57, 37, 120, .98)",
+      "toolbar_field_text": "rgba(232, 224, 255, 1)",
+      "toolbar_field_text_focus": "rgba(232, 224, 255, 1)",
+      "toolbar_field_border": "transparent",
+      "toolbar_field_border_focus": "rgba(41, 209, 238, 1)",
+      "toolbar_field_highlight": "rgba(41, 209, 238, .32)",
+      "toolbar_top_separator": "transparent",
+      "toolbar_bottom_separator": "rgba(57, 37, 120, .96)",
+      "bookmark_text": "rgba(232, 224, 255, 1)",
+      "tab_selected": "rgb(55, 32, 126)",
+      "tab_text": "rgba(232, 224, 255, 1)",
+      "tab_background_text": "rgba(232, 224, 255, 1)",
+      "tab_background_separator": "rgba(232, 224, 255, 1)",
+      "tab_line": "rgba(41, 209, 238, 1)",
+      "tab_loading": "rgba(80, 253, 188, 1)",
+      "ntp_background": "#2A2A2E",
+      "ntp_text": "rgba(232, 224, 255, 1)",
+      "popup": "rgba(57, 37, 120, 1)",
+      "popup_text": "rgba(232, 224, 255, 1)",
+      "popup_border": "rgba(232, 224, 255, .32)",
+      "popup_highlight": "rgba(232, 224, 255, .12)",
+      "popup_highlight_text": "rgba(255, 255, 255, 1)",
+      "sidebar": "rgba(55, 32, 126, 1)",
+      "sidebar_text": "rgba(232, 224, 255, 1)",
+      "sidebar_border": "rgba(232, 224, 255, .24)",
+      "sidebar_highlight": "rgba(121, 111, 255, 1)",
+      "sidebar_highlight_text": "rgba(255, 255, 255, 1)",
+      "focus_outline": "rgba(140, 92, 255, 1)"
+    }
+  }
+}
