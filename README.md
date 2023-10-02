@@ -13,7 +13,7 @@ You are free to Fork and modify this theme how you want.
 ## Install
 The theme has not yet been signed by Mozilla. You must therefore first configure the installation of an unsigned theme:
 1. Write `about:config` in the Search bar
-2. Search `xpinstall.signatures.required` and click on to set it at `true`
+2. Search `xpinstall.signatures.required` and click on to set it at `false`
 3. Download the [Latest Version](https://github.com/Av32000/FirefoxNightlyTheme/releases/latest) as `.zip`
 4. In Firefox, open the theme panel (`about:addons` > Theme)
 5. Click on the settings icon and select install for a file
